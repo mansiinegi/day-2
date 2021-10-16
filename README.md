@@ -1,3 +1,3 @@
-# day 2 of the code
+# this is practice repo.
 
 
