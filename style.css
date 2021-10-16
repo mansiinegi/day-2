@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@400;700&display=swap');
+
+
+.main1{
+  position: relative;
+  width: 400px;
+  height: 400px;
+  top: 200px;
+  left: 500px;
+  right:500px;
+}
+
+
+.main{
+  position:relative;
+  display:flex;
+  justify-content: center;
+  width: 700px;
+  height:400px;
+}
+
+.main p{
+  font-family: 'Lexend Deca', sans-serif;
+  color: hsla(0, 0%, 100%, 0.75);
+  font-size: 15px;
+}
+
+.main h1{
+  color: hsl(0, 0%, 95%);
+  font-family:'Big Shoulders Display', cursive;
+  font-size: 30px;
+}
+
+
+.main a{
+  position: absolute;
+  font-size: 1em;
+  background: hsl(0, 0%, 95%);
+  font-family: 'Lexend Deca', sans-serif;
+  padding: 10px 30px;
+  border-radius: 20px;
+  text-decoration: none;
+  bottom: 30px;
+}
+
+ .first{
+   background-color:hsl(31, 77%, 52%) ;
+   padding: 20px 30px 30px 25px;
+   border-top-left-radius: 10px;
+   border-bottom-left-radius: 10px;
+  
+}
+
+.first a{
+  color: hsl(31, 77%, 52%) ;
+}
+
+.second{
+  background-color: hsl(184, 100%, 22%) ;
+  padding: 20px 30px 30px 25px;
+}
+.second a{
+  color:hsl(184, 100%, 22%) ;
+}
+
+.third{
+  background-color:  hsl(179, 100%, 13%);
+  padding: 20px 30px 30px 25px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+} 
+.third a{
+  color:  hsl(179, 100%, 13%);
+}
